@@ -1,0 +1,80 @@
+body {
+  background-image:url('http://jorenrapini.com/posts/doublebg/background-top.jpg')
+}
+
+
+h1 {
+  color:#3e8f72;
+  text-align:center;
+  font-family:"Goudy Old Style";
+  font-size:80px;
+}
+
+#myname {
+  color:#3e8f72;
+  text-align:left;
+  font-family:"Goudy Old Style";
+  font-size:26px;
+}
+
+.information {
+  color:#040404;
+  text-align:left;
+  font-family:"Helvetica";
+  font-size:16px;
+}
+
+h2 {
+  margin-top: 120px;
+  color:#3e8f72;
+  text-align:center;
+  font-family:"Goudy Old Style";
+  font-size:26px;
+}
+
+.secondtitle {
+  margin-bottom: 6px;
+  margin-right: 180px;
+  margin-left: 180px;
+  color:#2c3330;
+  text-align:left;
+  font-family:"helvetica";
+  font-size:16px;
+}
+
+div{
+  margin-bottom: 20px;
+  margin-right: 180px;
+  margin-left: 180px;
+  color:#040404;
+  text-align:left;
+  font-family:"helvetica";
+  font-size:14px;
+}
+
+a {
+	color :#040404;
+	text-decoration: underline;
+}
+
+a:active {
+	color :#040404;
+	text-decoration: underline;
+}
+
+a:hover {
+	color :#3e8f72;
+	text-decoration: underline;
+}
+
+a:visited {
+	color :#2c3330;
+	text-decoration: underline;
+}
+
+img {
+  margin-left: 350px;
+  float:left;
+}
+
+

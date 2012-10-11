@@ -10,26 +10,71 @@ h1 {
   font-size:80px;
 }
 
+
 #myname {
   background-color:#b0d6c8;
   border-style: dashed;
   border-color:#3e8f72;
-  margin-left: 345px;
-  margin-right: 310px;
-  margin-bottom: 100px;
-  padding-top: 50px;
-  padding-bottom: 60px;
+  margin-left: 505px;
+  margin-right: 300px;
+  margin-bottom: 61px;
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-bottom: 61px;
   color:#3e8f72;
-  text-align:left;
+  text-align:center;
+  font-family:"Goudy Old Style";
+  font-size:36px;
+}
+
+#menu {
+  background-color:#b0d6c8;
+  position: fixed;
+  border-style: dashed;
+  border-color:#3e8f72;
+  margin-left: 5px;
+  margin-right: 1350px;
+  margin-top: -300px;
+  color:#3e8f72;
+  text-align:center;
   font-family:"Goudy Old Style";
   font-size:26px;
 }
 
 .information {
   color:#040404;
-  text-align:left;
+  text-align:center;
+  font-family:"Helvetica";
+  font-size:20px;
+}
+
+.bla {
+  color:#040404;
+  text-align:center;
   font-family:"Helvetica";
   font-size:16px;
+}
+
+
+#formation {
+  margin-left: -10px;
+  margin-right: 5px;
+}
+
+#experience {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+
+#contact {
+  margin-left: -10px;
+  margin-right: 5px;
+}
+
+#competence {
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 h2 {
@@ -85,9 +130,10 @@ a:visited {
 }
 
 img {
-  margin-left: 350px;
+  margin-left: 300px;
   float:left;
-  margin-top: 10px;
+  border-style: dashed;
+  border-color:#3e8f72;
 }
 
 .thirdtitle {
